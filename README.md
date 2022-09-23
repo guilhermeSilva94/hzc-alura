@@ -10,7 +10,7 @@ Segundo projeto da formação HTML e CSS
 | :fire: Desafio     | -
 
 
-![](https://raw.githubusercontent.com/guilhermeSilva94/barbearia-alura/master/img/logoSite.png#vitrinedev)
+![](https://raw.githubusercontent.com/guilhermeSilva94/hzc-alura/master/img/logoSite.png#vitrinedev)
 
 ## Detalhes do projeto
 
@@ -24,5 +24,5 @@ Seu objetivo era praticar o posicionamento de elementos usando flexbox e grid. N
 
 
 
-![](https://raw.githubusercontent.com/guilhermeSilva94/barbearia-alura/master/img/P%C3%A1gina1.png)
+![](https://raw.githubusercontent.com/guilhermeSilva94/hzc-alura/master/img/PaginaDesktop.png)
 
