@@ -22,7 +22,13 @@ Seu objetivo era praticar o posicionamento de elementos usando flexbox e grid. N
 • Usar a ferramenta Figma para executar o código de um layout; <br>
 • Criação do "menu hamburguer" usando JavaScript; <br>
 
+## Screenshots
 
-
+## Desktop
 ![](https://raw.githubusercontent.com/guilhermeSilva94/hzc-alura/master/img/PaginaDesktop.png)
+
+## Mobile
+<p align="center">
+  <img width="300" src="./img/PaginaMobile.png" align="center"></img>
+</p>
 
