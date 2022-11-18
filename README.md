@@ -10,8 +10,6 @@ Segundo projeto da formação HTML e CSS
 | :fire: Desafio     | -
 
 
-![](https://raw.githubusercontent.com/guilhermeSilva94/hzc-alura/master/img/logoSite.png#vitrinedev)
-
 ## Detalhes do projeto
 
 Projeto de um site responsivo de uma comunidade de skate usando HTML, CSS e JavaScript. 
